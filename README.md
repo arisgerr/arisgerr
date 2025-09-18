@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Oie 👨‍💻
 
-<!--
-**arisgerr/arisgerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Explorando o universo da **programação Java, Phyton, APIs REST e Cibersegurança**  
+📦 Experiência em **Field Service N2**  
+🌱 Sempre aprendendo e compartilhando conhecimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+- Java ☕ | Spring Boot 🌱 | APIs REST 🔗  
+- Bancos de dados SQL 🗄️  
+- Git & GitHub 🐙  
+- Cibersegurança 🔐  
+
+---
+
+## 📫 Como me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/ariana-eger/)  
+- 📧 **E-mail:** ariana.eger.ti@gmail.com *(exemplo, troca pelo teu real)*  
+
+---
+
+✨ *“A cada linha de código, um passo a mais no futuro que estou construindo.”* ✨
