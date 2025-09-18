@@ -17,7 +17,7 @@
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/ariana-eger/)  
-- 📧 **E-mail:** ariana.eger.ti@gmail.com *(exemplo, troca pelo teu real)*  
+- 📧 **E-mail:** ariana.eger.ti@gmail.com
 
 ---
 
