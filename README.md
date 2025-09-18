@@ -1,4 +1,4 @@
-👋 Olá! Sou a **Ariana Eger**  
+👋 Oie! Sou a **Ariana Eger**  
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 🚀 Explorando o universo da **programação Java, Python, APIs REST e Cibersegurança**  
