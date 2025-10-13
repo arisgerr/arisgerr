@@ -22,6 +22,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fortinet](https://img.shields.io/badge/Fortinet-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Cloud AWS](https://img.shields.io/badge/Cloud%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
