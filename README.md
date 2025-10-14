@@ -8,7 +8,7 @@
 
 <div align="center">
 
-#### Analysis and Systems Development
+## 📚 Análise e Desenvolvimento de Sistemas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,36 +29,31 @@
 
 ---
 
-### 👩‍💻 About me
+## 👩‍💻 Sobre mim
 
 <img align="right" width="300" alt="Pinky e Cérebro" src="https://github.com/user-attachments/assets/47d68783-6421-4f82-8e04-96f4459edbfb" />
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 🚀 Explorando **Java, Python, AWS, APIs REST e Segurança Cibernética**.
+- 🚀 Explorando **Java, Python, AWS, APIs REST e Cibersegurança**.
 - 🛠️ Experiência em **diagnóstico e resolução de problemas técnicos complexos N2.**
 - 📚 Apaixonada por **aprender e compartilhar conhecimento por meio de projetos**.
 
 ---
 
-## 📊 Statistics
-
 <div align="center">
-  <p>
-    <a href="https://github.com/arisgerr">
-      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&bg_color=0d1117&text_color=00FF7F&title_color=007BFF&border_color=007BFF&card_width=200" alt="Top Langs" />
-    </a>
-    <a href="https://github.com/arisgerr">
-      <img width="48%" alt="arisgerr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arisgerr?cardType=github&theme=tokyonight&bg=0d1117&text=00FF7F&title=007BFF&ring=007BFF&border=007BFF" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td><a href="https://github.com/arisgerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&bg_color=0d1117&text_color=00FF7F&title_color=007BFF&border_color=007BFF&card_width=200" alt="Top Langs" /></a></td>
+    
+      <td><a href="https://github.com/arisgerr"><img alt="arisgerr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arisgerr?cardType=github&theme=tokyonight&bg=0d1117&text=00FF7F&title=007BFF&ring=007BFF&border=007BFF" /></a></td>
+    </tr>
+  </table>
 </div>
 
----
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
