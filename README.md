@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm [Ariana](https://www.linkedin.com/in/arianaeger/)!
+# 👋 Olá, eu sou [Ariana](https://www.linkedin.com/in/arianaeger/)!
 
 </div>
 
@@ -33,22 +33,24 @@
 
 <img align="right" width="300" alt="Pinky e Cérebro" src="https://github.com/user-attachments/assets/47d68783-6421-4f82-8e04-96f4459edbfb" />
 
-- 🎓 Studying **Computer Science (Analysis and Systems Development)**.
-- 🚀 Exploring **Java, Python, AWS, REST APIs, and Cybersecurity**.
-- 🛠️ Experience in **diagnosing and resolving complex technical issues, performing maintenance N2.**
-- 📚 Passionate about **learning and sharing knowledge through projects**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Explorando **Java, Python, AWS, APIs REST e Segurança Cibernética**.
+- 🛠️ Experiência em **diagnóstico e resolução de problemas técnicos complexos N2.**
+- 📚 Apaixonada por **aprender e compartilhar conhecimento por meio de projetos**.
 
 ---
 
 ## 📊 Statistics
 
 <div align="center">
-  <a href="https://github.com/arisgerr">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&bg_color=0d1117&text_color=00FF7F&title_color=007BFF&border_color=007BFF&card_width=200" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/arisgerr">
-    <img width="50%" alt="arisgerr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arisgerr?cardType=github&theme=tokyonight&bg=0d1117&text=00FF7F&title=007BFF&ring=007BFF&border=007BFF" />
-  </a>
+  <p>
+    <a href="https://github.com/arisgerr">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&bg_color=0d1117&text_color=00FF7F&title_color=007BFF&border_color=007BFF&card_width=200" alt="Top Langs" />
+    </a>
+    <a href="https://github.com/arisgerr">
+      <img width="48%" alt="arisgerr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arisgerr?cardType=github&theme=tokyonight&bg=0d1117&text=00FF7F&title=007BFF&ring=007BFF&border=007BFF" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -69,4 +71,4 @@
 
 ---
 
-*“A cada linha de código, construo um futuro mais brilhante e cheio de possibilidades.”*
+**“A cada linha de código, construo um futuro mais brilhante e cheio de possibilidades.”**
