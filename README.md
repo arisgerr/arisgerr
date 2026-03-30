@@ -45,8 +45,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/arisgerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&bg_color=0d1117&text_color=00FF7F&title_color=007BFF&border_color=007BFF&card_width=200" alt="Top Langs" /></a></td>
-      <td><a href="https://github.com/arisgerr"><img alt="arisgerr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arisgerr?cardType=github&theme=tokyonight&bg=0d1117&text=00FF7F&title=007BFF&ring=007BFF&border=007BFF" /></a></td>
+      <td>
+  <a href="https://github.com/arisgerr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&bg_color=0d1117&text_color=00FF7F&title_color=007BFF&border_color=007BFF" alt="Top Langs" />
+  </a>
+</td><a href="https://github.com/arisgerr"><img alt="arisgerr's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/arisgerr?cardType=github&theme=tokyonight&bg=0d1117&text=00FF7F&title=007BFF&ring=007BFF&border=007BFF" /></a></td>
     </tr>
   </table>
 </div>
