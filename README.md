@@ -42,23 +42,6 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/arisgerr">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/arisgerr">
-          <img src="https://github-readme-stats.vercel.app/api?username=arisgerr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arisgerr/arisgerr/output/github-contribution-grid-snake.svg">
