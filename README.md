@@ -45,13 +45,11 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Top Langs -->
       <td>
         <a href="https://github.com/arisgerr">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgerr&layout=compact&langs_count=6&theme=tokyonight" alt="Top Langs" />
         </a>
       </td>
-      <!-- GitHub Stats -->
       <td>
         <a href="https://github.com/arisgerr">
           <img src="https://github-readme-stats.vercel.app/api?username=arisgerr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
